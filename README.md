@@ -1,6 +1,6 @@
 
 **CHAT APP**  
-Task management apps are specifically designed to help you organize and manage your workload. A Node.js project to manage your tasks.
+Chat app is a web application that enables instant messaging.
 
 
 **FEATURES**  
